@@ -1,6 +1,6 @@
 # Azure-Cloud-Solutions-Lab
 
-# 🎡 Meu parquinho tecnológico: Laboratório de experimentos Azure AI
+# 🎡 Meu parquinho tecnológico: Laboratório de experimentos Azure 
 
 > O que é mais interessante do que pegar uma ferramenta projetada para a rigidez do meio empresarial — focada em segurança, armazenamento e serviços de computação — para realizar experimentos totalmente fora do convencional? **Para mim, nada.**
 
@@ -14,7 +14,7 @@ Aqui, os serviços da Microsoft não são apenas ferramentas corporativas; são 
 
 ### 1. `[VIDEO-INDEXER] O-Grito-e-o-Silencio: Patolino vs. Heloïse` 
 Neste experimento, coloquei o **Azure Video Indexer** em um liquidificador cultural. De um lado, o caos vibrante de *Looney Tunes* (Patolino); do outro, a densidade artistica e silenciosa de *Retrato de uma Mulher em Chamas*. 
-* **A Análise:** Uma documentação sobre como a IA é treinada para o ruído e o caricato, mas permanece analfabeta para o silêncio. O algoritmo reconhece a euforia de um pato em segundos, mas falha em indexar o desejo velado em palvaras não ditas ou o luto em um adeus. Spoiler: o Azure prefere o Patolino, eu prefiro chorar com dramas sáficos e me traumatizar com a sétima arte.
+* **A Análise:** Uma documentação sobre como a IA é treinada para o ruído e o caricato, mas permanece analfabeta para o silêncio. O algoritmo reconhece a euforia de um pato em segundos, mas falha em indexar o desejo velado em palavras não ditas ou o luto em um adeus. Spoiler: o Azure prefere o Patolino, eu prefiro chorar com dramas sáficos e me traumatizar com a sétima arte.
 
 
 ### 2. `[PII-EXTRACTION] Pontos-Cegos: Quando-a-IA-Ignora-o-Essencial` 
