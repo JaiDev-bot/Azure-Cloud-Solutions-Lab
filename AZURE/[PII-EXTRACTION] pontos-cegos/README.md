@@ -1,4 +1,4 @@
-# 🕵️‍♀️ Estudo de caso: aonde foi parar meu CPF?
+# 🕵️‍♀️ Estudo de caso: aonde foi parar meu CPF e meu RG?
 
 > **Status do experimento:** Concluído com sucesso (e uma leve indignação de uma boa patriota).
 
@@ -16,13 +16,27 @@ Coloquei dois modelos de processamento de linguagem natural (NLP) frente a frent
 ---
 
 ## 📸 Prova A: O NER e o CPF brasileiro
-O modelo de NER é aquele aluno esforçado. Ele olhou para o meu CPF e disse: "uuu, isso aqui é uma entidade importante!". Identificou nome, cidade e o número do CPF sem pestanejar.
+O modelo de NER é aquele aluno esforçado. Ele olhou para o meu CPF e disse: "uuu, isso aqui é uma entidade importante!". Identificou nome, cidade e o número do CPF e RG em 2 segundos.
+
+> O NER identificando o CPF e RG que o PII "esqueceu".
+![Print gráfico](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BPII-EXTRACTION%5D%20pontos-cegos/NER.png)
+
+
 
 
 ---
 
 ## 📸 Prova B: O PII e a amnésia seletiva
 Aqui é onde o parquinho do Azure pega fogo. Ao rodar o extrator de **PII**, a IA teve uma crise de identidade. Ela identificou o **Social Security Number (SSN)** do Jordan Smith (EUA) com uma precisão de dar inveja(é sério, fiquei com inveja), mas quando chegou no CPF br... o silêncio foi ensurdecedor. Para o PII, o meu CPF é apenas um ruído no sistema.
+
+
+> *PII Extraction mostrando o sotaque americano rsrs.*
+![Print PII EUA](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BPII-EXTRACTION%5D%20pontos-cegos/EUA.png)
+
+---
+
+> *PII Extraction fingindo que CPF é número de sorteio no instagram.*
+![print PII br](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BPII-EXTRACTION%5D%20pontos-cegos/Jai.png)
 
 
 ---
@@ -70,3 +84,4 @@ O NER até sabe quem eu sou, mas o PII não quer me proteger. Essa inconsistênc
 
 ---
 *Desenvolvido com indignação técnica por [Jaiane/JaiDev-bot].*
+
