@@ -29,7 +29,21 @@ Onde a teoria se transforma em arquitetura de solução robusta para o mercado.
 Um manual sobre sobreviver à  um apocalipse zumbi na nuvem (interface do Azure) sem desenvolver um tique nervoso... O Portal do Azure me fez duvidar se tenho tdah. Obrigada, Azure! irei marcar uma consulta.
 
 * **O desabafo:** O Portal do Azure é o único lugar onde um "clique aqui" te leva para um limbo de pré-requisitos que nem a Microsoft sabe explicar. Eu só queria configurar uma política, mas o sistema decidiu que eu precisava de um upgrade de licença e de um curso de meditação com 20 modulos e todos em recursos diferentes que te levam a documentações que levam a outras documentações antes de me mostrar o botão de "Salvar". Será que se eu vender minha arte na praia não sai mais barato para minha sanidade? 
-* **A crítica:** A interface é o melhor firewall do mundo. O hacker não vai roubar meus dados porque ele vai ficar preso em três telas de "Loading" e um looping de menus laterais infinitos até desistir da vida de crime. É a segurança por puro cansaço mental: se eu não acho o botão de deletar, o invasor também não acha o de vazar. 
+* **A crítica:** A interface é o melhor firewall do mundo. O hacker não vai roubar meus dados porque ele vai ficar preso em três telas de "Loading" e um looping de menus laterais infinitos até desistir da vida de crime. É a segurança por puro cansaço mental: se eu não acho o botão de deletar, o invasor também não acha o de vazar.
+
+
+## 5. `[COMPARATIVO] Document Intelligence vs PII Extraction`
+
+Decidi colocar os dois "cérebros" da Microsoft em um ringue técnico para ver quem realmente protege o brasileiro na sociedade dos dados e da mão pesada do processo delicioso que a LGPD pode dar
+
+**A briga:** Enquanto o Document Intelligence identifica o CPF por saber ler o "mapa" dos documentos, o PII Extraction ignora nossa identidade por estar ocupado demais estudando inglês no Duolingo. É a prova de que, para a LGPD, o contexto nativo da IA às vezes é só um palpite errado.
+
+**A proposta:** Já que a IA "de fábrica" vacila, eu proponho a criação de um filtro customizado em Java (via SDK). A ideia é interceptar a extração precisa do Doc Intelligence e aplicar um mascaramento de dados antes que eles virem um risco de segurança.
+
+
+> **Spoiler de arquiteta:** A IA nativa nos deixou na mão com o CPF brasileiro? Sim. Mas eu não sento e choro, eu codo. Dentro das pastas deste laboratório, dei uma breve solução para a falha de carater do PII Extraction.
+
+---
 
  
  > Então obrigada, Azure!! estou dormindo pensando em você, comendo pensando em você, mas por que você é tão complicado? preciso de um tempo. Não é você, sou eu!! 
