@@ -35,7 +35,7 @@ O Document Intelligence não é um OCR comum; ele é uma engine de **Visão comp
 ##  Impacto: O fim da digitação manual
 A implementação desta tecnologia foca em dois pilares críticos para qualquer empresa:
 1. **Redução drástica de tempo:** Processos que levavam minutos de conferência manual passam a ser executados em segundos.
-2. **Mitigação de erro Humano:** A IA elimina a falha de digitação, garantindo que o dado que entra no banco de dados seja exatamente o que está no papel.
+2. **Mitigação de erro humano:** A IA elimina a falha de digitação, garantindo que o dado que entra no banco de dados seja exatamente o que está no papel.
 
 ---
 
@@ -57,14 +57,14 @@ Grandes empresas de logística e indústria enfrentam um gargalo crítico na con
 * **Erro de digitação:** Um número de CPF errado no sistema trava a geração do contrato, atrasa o exame admissional e gera um efeito dominó de burocracia.
 * **Risco de LGPD:** Documentos sensíveis ficam "soltos" em pastas locais ou e-mails antes de chegarem ao banco de dados oficial README.md].
 
-### 💡 A Solução com Document Intelligence
+###  A Solução com Document Intelligence
 Implementar um pipeline de **Verificação Documental Automática** via Java SDK. 
 
 **Fluxo na prática:**
 1. **Captura:** O candidato sobe a foto do RG/CNH em um portal simples.
 2. **Análise de IA:** O **Document Intelligence** entra em cena, identifica o tipo de documento e extrai nome, CPF e data de nascimento em menos de 3 segundos README.md].
 3. **Validação automática:** O sistema Java cruza o CPF extraído com a base da Receita Federal.
-4. **Persistência Segura:** Os dados estruturados são enviados diretamente para o **Azure Cosmos DB**, enquanto a imagem original é movida para um storage criptografado, reduzindo o tempo de exposição de dados sensíveis README.md].
+4. **Persistência segura:** Os dados estruturados são enviados diretamente para o **Azure Cosmos DB**, enquanto a imagem original é movida para um storage criptografado, reduzindo o tempo de exposição de dados sensíveis README.md].
 
 ### 🚀 Resultados esperados
 * **Velocidade:** Redução do tempo de cadastro de 10 minutos para **5 segundos** por candidato.
@@ -74,7 +74,8 @@ Implementar um pipeline de **Verificação Documental Automática** via Java SDK
 ---
 
 
-> **Veredito gata Jai:** "Não estamos apenas lendo papel; estamos eliminando o erro humano de um processo crítico para a vida do trabalhador e para o lucro da empresa." 
+> **Veredito da gata engenheira:** Não estamos apenas lendo papel; estamos eliminando o erro humano de um processo crítico para a vida do trabalhador e para o lucro da empresa. 
 
 
 *Análise desenvolvida com hiperfoco em Azure e doses altas de café [Jaiane/JaiDev-bot].*
+
