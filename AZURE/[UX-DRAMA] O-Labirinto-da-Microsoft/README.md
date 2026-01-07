@@ -35,7 +35,7 @@ Você entra no Portal e, de repente, é transportado para um universo paralelo:
 
 ---
 
-## 🛡️ Firewall por Exaustão Mental
+## Firewall por exaustão mental
 
 Cheguei à conclusão de que a interface da Microsoft é, na verdade, o sistema de segurança mais sofisticado do planeta. 
 
@@ -46,12 +46,13 @@ Cheguei à conclusão de que a interface da Microsoft é, na verdade, o sistema 
 
 ## 🧪 Conclusão: "Não é você, sou eu (e minha saúde mental)"
 
-O Azure pode ter uma configuração complicada para integrar o grafana ou algum serviço de IA, mas leva 30 minutos para me mostrar onde está o faturamento da conta. rsrs
+O Azure pode ter uma configuração complicada para integrar o grafana ou algum serviço de IA, mas leva 30 segundos para me mostrar onde está o faturamento da conta. rsrs
 
 > **Veredito:** Obrigada por tudo, Azure!! Estou dormindo pensando em você, comendo pensando em você (literalmente, porque não tive tempo de fazer meu bolinho da tarde tentando achar um recurso), mas precisamos de um tempo. Minha sanidade não é escalável como seus servidores.
 
 ---
 *Manual de sobrevivência desenvolvido entre café e muita vontade de escalar para o infinito e além [Jaiane/JaiDev-bot].*
+
 
 
 
