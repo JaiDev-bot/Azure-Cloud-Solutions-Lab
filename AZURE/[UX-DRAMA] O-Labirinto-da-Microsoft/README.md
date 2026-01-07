@@ -10,10 +10,11 @@
 </div>
 
 
-## 🕵️‍♀️ Investigação técnica (rs): Onde estão os haters?
+---
 
 <div align="center">
 
+## 🕵️‍♀️ Investigação técnica (rs): Onde estão os haters?
 
 ![printReddit](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BUX-DRAMA%5D%20O-Labirinto-da-Microsoft/Captura%20de%20tela%202026-01-07%20182151.png)
 
@@ -24,8 +25,13 @@ Fiz uma pesquisa técnica rigorosa (três minutos no Google) para saber o que as
 **Minha teoria da conspiração:** O Azure está pagando para varrer comentários negativos da internet. Se este GitHub cair amanhã, já sabemos que a Microsoft me pegou. Me procurem no limbo das documentações não traduzidas! 
 
 ---
+<div align= "center">
 
 ## O "Nuvem-verso" do Entra ID: Onde a esperança morre
+
+
+  </div>
+
 
 Fico imaginando quem trabalha com administração de identidades no Azure 24/7. Essa pessoa não precisa de um salário, precisa de um **Vale-Sanidade de R$ 4.000,00 em café e dipirona** para aguentar o **Entra ID**.
 
@@ -35,7 +41,11 @@ Você entra no Portal e, de repente, é transportado para um universo paralelo:
 
 ---
 
+<div align = "center">
+  
 ## Firewall por exaustão mental
+
+</div>
 
 Cheguei à conclusão de que a interface da Microsoft é, na verdade, o sistema de segurança mais sofisticado do planeta. 
 
@@ -44,9 +54,25 @@ Cheguei à conclusão de que a interface da Microsoft é, na verdade, o sistema 
 
 ---
 
+
+
+<div align = "center">
+  
 ## 🏗️ Azure AI Foundry: O parquinho de IA do Azure
 
-O **Azure AI Foundry** (nosso antigo e nada saudoso AI Studio) é o novo "queridinho" da Microsoft. Ele promete facilitar a vida, mas a verdade é que ele é um ecossistema de dependências infinitas.
+<details>
+  <summary>Abra parque infantil</summary>
+  
+  ![printparquinho](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BUX-DRAMA%5D%20O-Labirinto-da-Microsoft/Captura%20de%20tela%202025-12-23%20221937.png)
+
+  
+</details>
+
+</div>
+
+
+
+> O **Azure AI Foundry** (nosso antigo e nada saudoso AI Studio) é o novo "queridinho" da Microsoft. Ele promete facilitar a vida, mas a verdade é que ele é um ecossistema de dependências infinitas.
 
 **A "mágica" do faturamento:**
 Quando você clica em "Criar projeto", a Microsoft faz uma mágica digna de truques de mestres. Sem você perceber, ela cria:
@@ -65,6 +91,7 @@ O Azure pode ter uma configuração complicada para integrar o grafana ou algum 
 
 ---
 *Manual de sobrevivência desenvolvido entre café e muita vontade de escalar para o infinito e além [Jaiane/JaiDev-bot].*
+
 
 
 
