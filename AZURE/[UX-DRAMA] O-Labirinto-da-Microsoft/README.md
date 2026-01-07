@@ -12,6 +12,12 @@
 
 ## 🕵️‍♀️ Investigação técnica (rs): Onde estão os haters?
 
+<div align="center">
+
+![]()
+
+</div>
+
 Fiz uma pesquisa técnica rigorosa (três minutos no Google) para saber o que as pessoas acham do UX do Portal do Azure no Reddit. Estranhamente, só encontrei um comentário solitário na página inicial.
 
 **Minha teoria da conspiração:** O Azure está pagando para varrer comentários negativos da internet. Se este GitHub cair amanhã, já sabemos que a Microsoft me pegou. Me procurem no limbo das documentações não traduzidas! 
@@ -45,4 +51,5 @@ O Azure pode ter uma configuração complicada para integrar o grafana ou algum 
 
 ---
 *Manual de sobrevivência desenvolvido entre café e muita vontade de escalar para o infinito e além [Jaiane/JaiDev-bot].*
+
 
