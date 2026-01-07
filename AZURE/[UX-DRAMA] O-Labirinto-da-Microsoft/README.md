@@ -14,7 +14,8 @@
 
 <div align="center">
 
-![]()
+
+![printReddit](https://github.com/JaiDev-bot/Azure-Cloud-Solutions-Lab/blob/main/AZURE/%5BUX-DRAMA%5D%20O-Labirinto-da-Microsoft/Captura%20de%20tela%202026-01-07%20182151.png)
 
 </div>
 
@@ -51,5 +52,6 @@ O Azure pode ter uma configuração complicada para integrar o grafana ou algum 
 
 ---
 *Manual de sobrevivência desenvolvido entre café e muita vontade de escalar para o infinito e além [Jaiane/JaiDev-bot].*
+
 
 
