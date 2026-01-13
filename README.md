@@ -12,7 +12,7 @@
 
 Este repositório é o reflexo da minha inquietude técnica aplicada ao ecossistema da nuvem. Enquanto a tecnologia é frequentemente utilizada para automatizar o óbvio, eu utilizo os serviços do Azure para explorar as fronteiras entre a precisão algorítmica e a subjetividade humana. 
 
-Aqui, os serviços da Microsoft não são apenas ferramentas corporativas; são instrumentos de subversão técnica para entender o que o código alcança e onde a alma ainda é importante.
+Aqui, os serviços da Microsoft não são apenas ferramentas corporativas; são instrumentos de subversão técnica para entender o que o código alcança.
 
 ---
 
