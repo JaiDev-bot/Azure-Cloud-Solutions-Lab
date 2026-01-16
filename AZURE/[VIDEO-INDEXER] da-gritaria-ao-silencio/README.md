@@ -49,11 +49,11 @@ A Azure extraiu os dados, mas eu extraí a essência. Enquanto o algoritmo busca
 
 **1. Detecção de emoções via análise acústica:**
 O algoritmo de **Sentiment Analysis** do Azure trabalha pesado em cima de padrões de áudio (prosódia, tom e volume). 
-* **O Caso Patolino:** Gritos, variações bruscas de pitch e fala acelerada geram picos de dados fáceis de classificar como "Joy" ou "Anger". O ruído é o combustível da IA.
+* **O Caso Patolino:** Gritos, variações bruscas de cenas e fala acelerada geram picos de dados fáceis de classificar como "Joy" ou "Anger". O ruído é o combustível da IA.
 * **O Caso Heloïse:** O silêncio e as pausas dramáticas são interpretados pela IA como "ausência de dados" ou "Neutral". A máquina não entende que, no cinema, o silêncio é uma entidade carregada de informação semântica.
 
 **2. Visão computacional e reconhecimento de objetos:**
-A IA utiliza modelos de **Computer Vision** para detectar instâncias de "Pessoa" ou "Rosto".
+A IA utiliza modelos de **Computer Vision** para detectar instâncias de "pessoa" ou "rosto".
 * **O problema:** Para o Azure, a cena da despedida é apenas a `última ocorrência detectada da entidade Pessoa_01`. Ela marca o tempo (timestamp), mas não o impacto. Ela indexa o **quê** e o **quando**, mas falha miseravelmente em indexar o **porquê**.
 
 **3. O limite do processamento de linguagem natural (NLP):**
@@ -67,5 +67,6 @@ A tecnologia pode indexar o vídeo, mas só o humano consegue indexar a alma. O 
 > O Azure extraiu os dados, mas eu extraí a essência. Onde há silêncio, há o conflito do desejar, há a poesia do adeus e a melancolia do adeus. Mas quem sabe eu não posso ensinar as IAs a serem sensiveis assim? rs
 ---
 *Análise desenvolvida com metadados e lágrimas [Jaiane/JaiDev-bot].*
+
 
 
