@@ -72,7 +72,7 @@ Cheguei à conclusão de que a interface da Microsoft é, na verdade, o sistema 
 
 
 
-> O **Azure AI Foundry** (nosso antigo e nada saudoso AI Studio) é o novo "queridinho" da Microsoft. Ele promete facilitar a vida, mas a verdade é que ele é um ecossistema de dependências infinitas.
+> O **Azure AI Foundry** (nosso antigo e nada simples AI Studio) é o novo "queridinho" da Microsoft. Ele promete facilitar a vida, mas a verdade é que ele é um ecossistema de dependências infinitas.
 
 **A "mágica" do faturamento:**
 Quando você clica em "Criar projeto", a Microsoft faz uma mágica digna de truques de mestres. Sem você perceber, ela cria:
@@ -91,6 +91,7 @@ O Azure pode ter uma configuração complicada para integrar o grafana ou algum 
 
 ---
 *Manual de sobrevivência desenvolvido entre café e muita vontade de escalar para o infinito e além [Jaiane/JaiDev-bot].*
+
 
 
 
