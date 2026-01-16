@@ -80,10 +80,10 @@ No fim, se o tratamento dos dados foi feito com ferramentas de cloud ou não, a 
 ## 🧪 Conclusão do caso
 O NER até sabe quem eu sou, mas o PII não quer me proteger. Essa inconsistência prova que a inteligência artificial, por mais "inteligente" que pareça, ainda precisa de um olhar humano (e brasileiro) para não virar um pesadelo.
 
-`**Spoiler:** É por causa desse "bug cultural" que eu decidi que não dava para confiar apenas na IA nativa. No módulo de comparação, vou mostrar como a futura gatinha engenheira de software (e javeira estilosa) resolveria o que o Azure ignora.` 
 
 ---
 *Desenvolvido com indignação técnica por [Jaiane/JaiDev-bot].*
+
 
 
 
