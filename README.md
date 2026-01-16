@@ -18,13 +18,14 @@ Aqui, os serviços da Microsoft não são apenas ferramentas corporativas; são 
 
 ## 📂 Guia de navegação do laboratório
 
-### 1. `[PII-EXTRACTION] Pontos-Cegos: Quando a IA ignora o essencial` 
+### 1. `[DOC-INTELLIGENCE] Engenharia-de-Escala: automação e soluções em Java` 
+Onde a teoria se transforma em arquitetura de solução robusta para o mercado.
+* **A visão técnica:** Proposta de aceleração de processos empresariais através da verificação documental automatizada. O foco aqui é demonstrar como a implementação de um programa em **Java**, consumindo a **SDK do Azure**, pode reduzir drasticamente o erro humano e otimizar o tempo de resposta organizacional, transformando burocracia em fluxo inteligente.
+
+### 2. `[PII-EXTRACTION] Pontos-Cegos: Quando a IA ignora o essencial` 
 Um teste rigoroso sobre a detecção de informações sensíveis (Personally Identifiable Information).
 * **A crítica:** Este módulo documenta as falhas de reconhecimento do modelo, que ignorou entidades básicas como o **CPF** e **RG** em contextos específicos. É uma auditoria necessária sobre a confiabilidade de sistemas de segurança que "alucinam" ou ignoram os dados que deveriam proteger por padrão. LGPD, vem aqui minha gata, vamos conversar!!
 
-### 2. `[DOC-INTELLIGENCE] Engenharia-de-Escala: automação e soluções em Java` 
-Onde a teoria se transforma em arquitetura de solução robusta para o mercado.
-* **A visão técnica:** Proposta de aceleração de processos empresariais através da verificação documental automatizada. O foco aqui é demonstrar como a implementação de um programa em **Java**, consumindo a **SDK do Azure**, pode reduzir drasticamente o erro humano e otimizar o tempo de resposta organizacional, transformando burocracia em fluxo inteligente.
 
 ### 3. `[UX-DRAMA] O-Labirinto-da-Microsoft: Burocracia na nuvem` 
 Um manual sobre sobreviver à  um apocalipse zumbi na nuvem (interface do Azure) sem desenvolver um tique nervoso... O Portal do Azure me fez duvidar se tenho tdah. Obrigada, Azure! irei marcar uma consulta.
