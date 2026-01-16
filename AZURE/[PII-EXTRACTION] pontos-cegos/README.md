@@ -49,7 +49,7 @@ A ironia técnica é deliciosa, mas o perigo é real. Como podemos falar em conf
 * **A Falha de soberania:** A IA é treinada para o "Norte global". Se o seu dado não está no mapeamento oficial de Seattle, você é tecnicamente invisível para a segurança da plataforma.
 
 
-# 💸 O Preço da amnésia:
+# 💸 O preço da amnésia:
 
 > A IA não conseguiu extrair o CPF nem o RG, mas o juiz consegue no processo!! rsrs
 
@@ -84,5 +84,6 @@ O NER até sabe quem eu sou, mas o PII não quer me proteger. Essa inconsistênc
 
 ---
 *Desenvolvido com indignação técnica por [Jaiane/JaiDev-bot].*
+
 
 
