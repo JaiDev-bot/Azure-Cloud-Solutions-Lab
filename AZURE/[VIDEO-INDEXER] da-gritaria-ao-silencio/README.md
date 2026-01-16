@@ -18,7 +18,7 @@ O Azure brilha no ruído. Ele indexou cada grito e cada plano mirabolante do Pat
 ---
 
 ## 📸 Prova B: O analfabetismo do sentimento (Heloïse)
-Inseri a cena traumatizante de *Retrato de uma Mulher em Chamas* com a frase devastadora: **"I saw her one last time"**. 
+Inseri a cena traumatizante de *Retrato de uma Mulher em Chamas* com a frase dilaceradora, esmagadora e trituradora: **"I saw her one last time"**. 
 
 Para a Azure, essa frase seria apenas um dado cronológico — basicamente a última vez que o objeto "pessoa" apareceu no frame antes de sumir do banco de dados. Um robô lê isso e pensa: "OK, tempo final de exibição: 02:45".
 
@@ -67,4 +67,5 @@ A tecnologia pode indexar o vídeo, mas só o humano consegue indexar a alma. O 
 > O Azure extraiu os dados, mas eu extraí a essência. Onde há silêncio, há o conflito do desejar, há a poesia do adeus e a melancolia do adeus. Mas quem sabe eu não posso ensinar as IAs a serem sensiveis assim? rs
 ---
 *Análise desenvolvida com metadados e lágrimas [Jaiane/JaiDev-bot].*
+
 
