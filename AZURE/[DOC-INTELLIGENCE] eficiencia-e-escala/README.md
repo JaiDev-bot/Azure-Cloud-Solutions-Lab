@@ -7,7 +7,7 @@ Este módulo documenta a implementação do **Azure Document Intelligence** (ant
 ---
 
 ## Como a "mágica" acontece?
-O Document Intelligence não é um OCR comum; ele é uma engine de **Visão computacional** treinada para entender layouts.
+O Document Intelligence não é um OCR comum; ele é uma engine de **visão computacional** treinada para entender layouts.
 * **Análise estrutural:** Ele identifica tabelas, campos de formulário e assinaturas, mantendo a hierarquia dos dados.
 * **Modelos pré-treinados:** Utiliza modelos que já "nascem" sabendo o que é um RG, CNH ou uma Nota Fiscal brasileira.
 
@@ -78,5 +78,6 @@ Implementar um pipeline de **Verificação Documental Automática** via Java SDK
 
 
 *Análise desenvolvida com hiperfoco em Azure e doses altas de café [Jaiane/JaiDev-bot].*
+
 
 
