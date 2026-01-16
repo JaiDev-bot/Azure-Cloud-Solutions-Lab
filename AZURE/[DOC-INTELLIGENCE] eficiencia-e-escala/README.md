@@ -52,7 +52,7 @@ Para integrar essa potência no ecossistema **Java**, seguimos uma arquitetura l
 ## 🏥 Caso de uso real: Automação de onboarding em massa (RH Tech)
 
 ### 🚩 O problema 
-Grandes empresas de logística e indústria enfrentam um gargalo crítico na contratação: o **onboarding documental**. 
+Grandes empresas de logística e indústria enfrentam um problema crítico na contratação: o **onboarding documental**. 
 * **Processo manual:** Funcionários de RH perdem horas digitando dados de fotos de RGs e CPFs enviadas pelos candidatos.
 * **Erro de digitação:** Um número de CPF errado no sistema trava a geração do contrato, atrasa o exame admissional e gera um efeito dominó de burocracia.
 * **Risco de LGPD:** Documentos sensíveis ficam "soltos" em pastas locais ou e-mails antes de chegarem ao banco de dados oficial README.md].
@@ -78,4 +78,5 @@ Implementar um pipeline de **Verificação Documental Automática** via Java SDK
 
 
 *Análise desenvolvida com hiperfoco em Azure e doses altas de café [Jaiane/JaiDev-bot].*
+
 
