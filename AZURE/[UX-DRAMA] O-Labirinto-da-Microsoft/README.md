@@ -37,7 +37,7 @@ Fico imaginando quem trabalha com administração de identidades no Azure 24/7. 
 
 Você entra no Portal e, de repente, é transportado para um universo paralelo:
 * **Looping infinito:** Um menu lateral que abre outro menu lateral, que te leva a uma aba, que abre uma janela modal, que te pede uma licença que você só consegue se voltar para o primeiro menu. É o *Inception* da Microsoft. 
-* **O drama do "Segredo de cliente":** Você gera a chave secreta, o Azure te dá 0,5 segundos para copiar. Você pisca, a guia fecha por instinto e... CABUM! O segredo sumiu para sempre. Agora chora no banho enquanto apaga e cria tudo de novo porque a segurança é "tão boa" que nem você pode ver o que acabou de criar. rsrs 
+* **O drama do "Segredo de cliente":** Você gera a chave secreta, o Azure te dá 0,5 segundos para copiar. Você pisca, a guia fecha por instinto e... O segredo sumiu para sempre(não me pergunte o porque eu sei disso). Agora chora no banho enquanto apaga e cria tudo de novo porque a segurança é "tão boa" que nem você pode ver o que acabou de criar. rsrs 
 
 ---
 
@@ -91,6 +91,7 @@ O Azure pode ter uma configuração complicada para integrar o grafana ou algum 
 
 ---
 *Manual de sobrevivência desenvolvido entre café e muita vontade de escalar para o infinito e além [Jaiane/JaiDev-bot].*
+
 
 
 
