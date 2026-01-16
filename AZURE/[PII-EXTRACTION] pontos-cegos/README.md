@@ -46,7 +46,7 @@ Aqui é onde o parquinho do Azure pega fogo. Ao rodar o extrator de **PII**, a I
 A ironia técnica é deliciosa, mas o perigo é real. Como podemos falar em conformidade e segurança se o serviço de "Informações Identificativas" da nuvem mais usada do mundo ignora o principal documento de identificação do Brasil?
 
 * **O Risco:** Se uma empresa confia cegamente no PII do Azure para limpar logs ou anonimizar dados, ela está deixando CPFs e RGs vazarem livremente enquanto protege o seguro social de gringos que nem moram aqui.
-* **A Falha de Soberania:** A IA é treinada para o "Norte global". Se o seu dado não está no mapeamento oficial de Seattle, você é tecnicamente invisível para a segurança da plataforma.
+* **A Falha de soberania:** A IA é treinada para o "Norte global". Se o seu dado não está no mapeamento oficial de Seattle, você é tecnicamente invisível para a segurança da plataforma.
 
 
 # 💸 O Preço da amnésia:
@@ -84,4 +84,5 @@ O NER até sabe quem eu sou, mas o PII não quer me proteger. Essa inconsistênc
 
 ---
 *Desenvolvido com indignação técnica por [Jaiane/JaiDev-bot].*
+
 
